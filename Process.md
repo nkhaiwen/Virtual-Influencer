@@ -42,7 +42,7 @@ the examples are:
 </video>
 
 8. Finally, i compile it all into one final video
-<video src="./Virtual Influencer v1.mp4" width="600" controls>
+<video src="Virtual Influencer v1.mp4" width="600" controls>
   Video
 </video>
 
