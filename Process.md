@@ -1,16 +1,16 @@
 1. i generate a few variation of how the character should be, based on the prompt i provided.
 the examples are: 
-![alt text](Husband/Husband1.png)
-![](Husband/Husband2.png)
-![](Husband/Wife1.png)
-![](Husband/Wife2.png)
+![alt text](./Pictures/Husband/Husband1.png)
+![](./Pictures/Husband/Husband2.png)
+![](./Pictures/Husband/Wife1.png)
+![](./Pictures/Husband/Wife2.png)
 
 2. in the end, i picked the forth option, and start generating from there
-![](Husband/Wife2.png)
+![](./Pictures/Husband/Wife2.png)
 
 3. then i started to generate variations of her in different scenario and outfit, based on the prompt i provided
-![](Wife/hf_20260407_073452_9b54ccc9-cf4f-41d3-b69b-a6fbc03f1b56.png)
-![](Wife/hf_20260407_073708_d90410c9-07a4-4dc9-bc53-384be2ee8245.png)
+![](./Pictures/Wife/hf_20260407_073452_9b54ccc9-cf4f-41d3-b69b-a6fbc03f1b56.png)
+![](./Pictures/Wife/hf_20260407_073708_d90410c9-07a4-4dc9-bc53-384be2ee8245.png)
 
 4. I then made a moodboard to compile all the inspiration pictures
 ![](moodboard.jpg)
