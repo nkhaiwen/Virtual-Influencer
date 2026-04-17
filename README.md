@@ -36,7 +36,7 @@ I first started researching how I want the person to look like, and what is the 
 ![](Frames/f3.png)
 ![](Frames/f4.png)
 
-7. I then started to generate the short video using the keyframes. The models used are Gemini 3.1 Flash Preview, Nano Banana 2, Kling 3.0
+7. I then started to generate the short video using the keyframes. The models used are Gemini 3.1 Flash Preview, Nano Banana 2, Flux.2 dev, Kling 3.0
 <video src="Frames/v1.mp4" width="600" controls>
   Video
 </video>
