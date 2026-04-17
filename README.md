@@ -11,7 +11,7 @@ I first started researching how I want the person to look like, and what is the 
 
 ### Step 2: Deciding the looks
 
-1. I generate a few variation of how the character should be, based on the prompt i provided. The examples are: 
+1. I generate a few variation of how the character should be, based on the prompt I provided. The examples are: 
 ![alt text](./Pictures/Husband/Husband1.png)
 ![](./Pictures/Husband/Husband2.png)
 ![](./Pictures/Husband/Wife1.png)
